@@ -1,35 +1,68 @@
-E:\SkeltalStudentApi\bin\Debug\net8.0\appsettings.Development.json
-E:\SkeltalStudentApi\bin\Debug\net8.0\appsettings.json
-E:\SkeltalStudentApi\bin\Debug\net8.0\SkeltalStudentApi.staticwebassets.endpoints.json
-E:\SkeltalStudentApi\bin\Debug\net8.0\SkeltalStudentApi.exe
-E:\SkeltalStudentApi\bin\Debug\net8.0\SkeltalStudentApi.deps.json
-E:\SkeltalStudentApi\bin\Debug\net8.0\SkeltalStudentApi.runtimeconfig.json
-E:\SkeltalStudentApi\bin\Debug\net8.0\SkeltalStudentApi.dll
-E:\SkeltalStudentApi\bin\Debug\net8.0\SkeltalStudentApi.pdb
-E:\SkeltalStudentApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
-E:\SkeltalStudentApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-E:\SkeltalStudentApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-E:\SkeltalStudentApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-E:\SkeltalStudentApi\obj\Debug\net8.0\SkeltalStudentApi.csproj.AssemblyReference.cache
-E:\SkeltalStudentApi\obj\Debug\net8.0\SkeltalStudentApi.GeneratedMSBuildEditorConfig.editorconfig
-E:\SkeltalStudentApi\obj\Debug\net8.0\SkeltalStudentApi.AssemblyInfoInputs.cache
-E:\SkeltalStudentApi\obj\Debug\net8.0\SkeltalStudentApi.AssemblyInfo.cs
-E:\SkeltalStudentApi\obj\Debug\net8.0\SkeltalStudentApi.csproj.CoreCompileInputs.cache
-E:\SkeltalStudentApi\obj\Debug\net8.0\SkeltalStudentApi.MvcApplicationPartsAssemblyInfo.cs
-E:\SkeltalStudentApi\obj\Debug\net8.0\SkeltalStudentApi.MvcApplicationPartsAssemblyInfo.cache
-E:\SkeltalStudentApi\obj\Debug\net8.0\scopedcss\bundle\SkeltalStudentApi.styles.css
-E:\SkeltalStudentApi\obj\Debug\net8.0\staticwebassets.build.json
-E:\SkeltalStudentApi\obj\Debug\net8.0\staticwebassets.development.json
-E:\SkeltalStudentApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-E:\SkeltalStudentApi\obj\Debug\net8.0\staticwebassets\msbuild.SkeltalStudentApi.Microsoft.AspNetCore.StaticWebAssets.props
-E:\SkeltalStudentApi\obj\Debug\net8.0\staticwebassets\msbuild.SkeltalStudentApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-E:\SkeltalStudentApi\obj\Debug\net8.0\staticwebassets\msbuild.build.SkeltalStudentApi.props
-E:\SkeltalStudentApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SkeltalStudentApi.props
-E:\SkeltalStudentApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SkeltalStudentApi.props
-E:\SkeltalStudentApi\obj\Debug\net8.0\staticwebassets.pack.json
-E:\SkeltalStudentApi\obj\Debug\net8.0\SkeltalS.A592382F.Up2Date
-E:\SkeltalStudentApi\obj\Debug\net8.0\SkeltalStudentApi.dll
-E:\SkeltalStudentApi\obj\Debug\net8.0\refint\SkeltalStudentApi.dll
-E:\SkeltalStudentApi\obj\Debug\net8.0\SkeltalStudentApi.pdb
-E:\SkeltalStudentApi\obj\Debug\net8.0\SkeltalStudentApi.genruntimeconfig.cache
-E:\SkeltalStudentApi\obj\Debug\net8.0\ref\SkeltalStudentApi.dll
+E:/SkeltalStudentApi/bin/Debug/net8.0/appsettings.Development.json
+E:/SkeltalStudentApi/bin/Debug/net8.0/appsettings.json
+E:/SkeltalStudentApi/bin/Debug/net8.0/SkeltalStudentApi.staticwebassets.endpoints.json
+E:/SkeltalStudentApi/bin/Debug/net8.0/SkeltalStudentApi.exe
+E:/SkeltalStudentApi/bin/Debug/net8.0/SkeltalStudentApi.deps.json
+E:/SkeltalStudentApi/bin/Debug/net8.0/SkeltalStudentApi.runtimeconfig.json
+E:/SkeltalStudentApi/bin/Debug/net8.0/SkeltalStudentApi.dll
+E:/SkeltalStudentApi/bin/Debug/net8.0/SkeltalStudentApi.pdb
+E:/SkeltalStudentApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+E:/SkeltalStudentApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+E:/SkeltalStudentApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+E:/SkeltalStudentApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+E:/SkeltalStudentApi/obj/Debug/net8.0/SkeltalStudentApi.csproj.AssemblyReference.cache
+E:/SkeltalStudentApi/obj/Debug/net8.0/SkeltalStudentApi.GeneratedMSBuildEditorConfig.editorconfig
+E:/SkeltalStudentApi/obj/Debug/net8.0/SkeltalStudentApi.AssemblyInfoInputs.cache
+E:/SkeltalStudentApi/obj/Debug/net8.0/SkeltalStudentApi.AssemblyInfo.cs
+E:/SkeltalStudentApi/obj/Debug/net8.0/SkeltalStudentApi.csproj.CoreCompileInputs.cache
+E:/SkeltalStudentApi/obj/Debug/net8.0/SkeltalStudentApi.MvcApplicationPartsAssemblyInfo.cs
+E:/SkeltalStudentApi/obj/Debug/net8.0/SkeltalStudentApi.MvcApplicationPartsAssemblyInfo.cache
+E:/SkeltalStudentApi/obj/Debug/net8.0/scopedcss/bundle/SkeltalStudentApi.styles.css
+E:/SkeltalStudentApi/obj/Debug/net8.0/staticwebassets.build.json
+E:/SkeltalStudentApi/obj/Debug/net8.0/staticwebassets.development.json
+E:/SkeltalStudentApi/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+E:/SkeltalStudentApi/obj/Debug/net8.0/staticwebassets/msbuild.SkeltalStudentApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:/SkeltalStudentApi/obj/Debug/net8.0/staticwebassets/msbuild.SkeltalStudentApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:/SkeltalStudentApi/obj/Debug/net8.0/staticwebassets/msbuild.build.SkeltalStudentApi.props
+E:/SkeltalStudentApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SkeltalStudentApi.props
+E:/SkeltalStudentApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SkeltalStudentApi.props
+E:/SkeltalStudentApi/obj/Debug/net8.0/staticwebassets.pack.json
+E:/SkeltalStudentApi/obj/Debug/net8.0/SkeltalS.A592382F.Up2Date
+E:/SkeltalStudentApi/obj/Debug/net8.0/SkeltalStudentApi.dll
+E:/SkeltalStudentApi/obj/Debug/net8.0/refint/SkeltalStudentApi.dll
+E:/SkeltalStudentApi/obj/Debug/net8.0/SkeltalStudentApi.pdb
+E:/SkeltalStudentApi/obj/Debug/net8.0/SkeltalStudentApi.genruntimeconfig.cache
+E:/SkeltalStudentApi/obj/Debug/net8.0/ref/SkeltalStudentApi.dll
+/home/allanbenedict/Documents/Skeletal API/ASPNET/bin/Debug/net8.0/appsettings.Development.json
+/home/allanbenedict/Documents/Skeletal API/ASPNET/bin/Debug/net8.0/appsettings.json
+/home/allanbenedict/Documents/Skeletal API/ASPNET/bin/Debug/net8.0/SkeltalStudentApi
+/home/allanbenedict/Documents/Skeletal API/ASPNET/bin/Debug/net8.0/SkeltalStudentApi.deps.json
+/home/allanbenedict/Documents/Skeletal API/ASPNET/bin/Debug/net8.0/SkeltalStudentApi.runtimeconfig.json
+/home/allanbenedict/Documents/Skeletal API/ASPNET/bin/Debug/net8.0/SkeltalStudentApi.dll
+/home/allanbenedict/Documents/Skeletal API/ASPNET/bin/Debug/net8.0/SkeltalStudentApi.pdb
+/home/allanbenedict/Documents/Skeletal API/ASPNET/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/allanbenedict/Documents/Skeletal API/ASPNET/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/allanbenedict/Documents/Skeletal API/ASPNET/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/allanbenedict/Documents/Skeletal API/ASPNET/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/Debug/net8.0/SkeltalStudentApi.csproj.AssemblyReference.cache
+/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/Debug/net8.0/SkeltalStudentApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/Debug/net8.0/SkeltalStudentApi.AssemblyInfoInputs.cache
+/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/Debug/net8.0/SkeltalStudentApi.AssemblyInfo.cs
+/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/Debug/net8.0/SkeltalStudentApi.csproj.CoreCompileInputs.cache
+/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/Debug/net8.0/SkeltalStudentApi.MvcApplicationPartsAssemblyInfo.cs
+/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/Debug/net8.0/SkeltalStudentApi.MvcApplicationPartsAssemblyInfo.cache
+/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/Debug/net8.0/SkeltalStudentApi.sourcelink.json
+/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/Debug/net8.0/staticwebassets.build.json
+/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/Debug/net8.0/staticwebassets.development.json
+/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/Debug/net8.0/staticwebassets/msbuild.SkeltalStudentApi.Microsoft.AspNetCore.StaticWebAssets.props
+/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/Debug/net8.0/staticwebassets/msbuild.build.SkeltalStudentApi.props
+/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SkeltalStudentApi.props
+/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SkeltalStudentApi.props
+/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/Debug/net8.0/staticwebassets.pack.json
+/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/Debug/net8.0/scopedcss/bundle/SkeltalStudentApi.styles.css
+/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/Debug/net8.0/SkeltalStudentApi.csproj.CopyComplete
+/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/Debug/net8.0/SkeltalStudentApi.dll
+/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/Debug/net8.0/refint/SkeltalStudentApi.dll
+/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/Debug/net8.0/SkeltalStudentApi.pdb
+/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/Debug/net8.0/SkeltalStudentApi.genruntimeconfig.cache
+/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/Debug/net8.0/ref/SkeltalStudentApi.dll

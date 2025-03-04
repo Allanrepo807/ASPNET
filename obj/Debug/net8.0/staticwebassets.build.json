@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "SfaMa1pbuBVgZFjAe84maF0AQqEQdDFtZC2mDjmcir0=",
+  "Hash": "cVTMZOChLd507Wb6GwPvTU+w7+7vo7+lE2QQFXJTxXg=",
   "Source": "SkeltalStudentApi",
   "BasePath": "_content/SkeltalStudentApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

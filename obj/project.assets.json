@@ -447,31 +447,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ALLAN BENEDICT\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/home/allanbenedict/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SkeltalStudentApi\\SkeltalStudentApi.csproj",
+      "projectUniqueName": "/home/allanbenedict/Documents/Skeletal API/ASPNET/SkeltalStudentApi.csproj",
       "projectName": "SkeltalStudentApi",
-      "projectPath": "E:\\SkeltalStudentApi\\SkeltalStudentApi.csproj",
-      "packagesPath": "C:\\Users\\ALLAN BENEDICT\\.nuget\\packages\\",
-      "outputPath": "E:\\SkeltalStudentApi\\obj\\",
+      "projectPath": "/home/allanbenedict/Documents/Skeletal API/ASPNET/SkeltalStudentApi.csproj",
+      "packagesPath": "/home/allanbenedict/.nuget/packages/",
+      "outputPath": "/home/allanbenedict/Documents/Skeletal API/ASPNET/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ALLAN BENEDICT\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/allanbenedict/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -484,13 +477,7 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -520,7 +507,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
